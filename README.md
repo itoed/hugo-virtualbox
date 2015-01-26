@@ -11,3 +11,7 @@ A simple [Hugo](http://gohugo.io) site with the Hyde theme on VirtualBox.
 - `vagrant ssh`
 - `hugo server`
 - Point your browser on the host machine to http://localhost:1313
+
+## Note
+
+This project demonstrates a deficiency when using Hugo from within a VirtualBox shared folder (https://github.com/spf13/hugo/issues/841).
